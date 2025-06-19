@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-06-16 11:06">
+  <shop>
+    <name>Realgallery</name>
+    <company>Realgallery</company>
+    <url>http://best.seller.ru</url>
+    <email>mvkovalkova@yandex.ru</email>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="536">Бейсболки</category>
+    </categories>
+    <offers>
+      <offer id="9864375-One Size" available="false">
+        <name>Кепка RETRO TRUCKER Flexfit, красный, с несуществующим атрибутом</name>
+        <url>https://www.zalando.hu/flexfit-retro-trucker-sapka-redwhite-ff054q00u-g11.html</url>
+        <price>3802</price>
+        <vendor>Flexfit</vendor>
+        <param name="Пол">женский</param>
+        <param name="Тип">Бейсболки</param>
+        <param name="Название группы вариантов">9864375</param>
+        <param name="Размер в сетке">One Size</param>
+		<param name="Бирма и Вьетнам">Без пояснений</param>
+        <currencyId>RUB</currencyId>
+        <categoryId>536</categoryId>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/ogM6cPGXN9LfIHP6.jpg</picture>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/42GLcgoUW4s03EkB.jpg</picture>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/2aYgvRyo36ne8mX9.jpg</picture>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/glgs2BGQNvM287Xj.jpg</picture>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/tTpyQ9cIOrC86MFr.jpg</picture>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/RgRhYq7l5LehZROX.jpg</picture>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/dFVYlXkFvWJxMWbe.jpg</picture>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/SZZ10VSaBwphcaQ8.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <weight>0.1</weight>
+        <dimensions>20/17/6</dimensions>
+        <vendorCode>FF054Q00U-G11 | piros</vendorCode>
+        <description>Бренд: Flexfit Цвет: красный</description>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <model>Кепка RETRO TRUCKER Flexfit, красный</model>
+        <count>1</count>
+      </offer>
+      <offer id="13670114-38-40" available="false">
+        <name>Трусы Everyday Shaping High Waisted Spanx, каштановые, обычный товар</name>
+        <url>https://www.zalando.hu/spanx-everyday-shaping-high-waisted-alakformalo-ruhazat-chestnut-brown-sx181c049-o11.html</url>
+        <price>7562</price>
+        <oldprice>8251</oldprice>
+        <vendor>Spanx</vendor>
+        <param name="Пол">женский</param>
+        <param name="Тип">Трусы</param>
+        <param name="Название группы вариантов">13670114</param>
+        <param name="Размер в сетке">42-44</param>
+        <currencyId>RUB</currencyId>
+        <categoryId>536</categoryId>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/kzeUaKBzFkZEzzAv.jpg</picture>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/UOFFdE32Wh4phmVf.jpg</picture>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/wfkFzGgpHNjirlxs.jpg</picture>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/JMY5CdCEN8VA9mwY.jpg</picture>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/AvMhZZIqfjUs7dUT.jpg</picture>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/VPaaxyQLpUoXWyzM.jpg</picture>
+        <picture>https://n.cdn.cdek.shopping/images/shopping/IH0uQlAojcnIyF2Y.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <weight>0.05</weight>
+        <dimensions>10/10/3</dimensions>
+        <vendorCode>SX181C049-O11 | chestnut brown</vendorCode>
+        <description>Материал внешней ткани: 55% нейлон, 45% эластан Ткань: Джерси Инструкции по уходу: Машинная стирка при 30 °C, машинная стирка в деликатном режиме.</description>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <model>Трусы Everyday Shaping High Waisted Spanx, каштановые</model>
+        <count>1</count>
+        </offer>
+	  </offers>
+    </shop>
+</yml_catalog>
+ 
